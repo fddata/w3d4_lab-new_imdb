@@ -30,7 +30,6 @@ attr_accessor :title, :genre
   end
 
 
-
   def self.delete_all()
     sql = "DELETE FROM movies"
     SqlRunner.run(sql)

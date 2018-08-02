@@ -27,6 +27,6 @@ CREATE TABLE castings(
 );
 
 
--- SELECT * FROM stars;
+SELECT * FROM stars;
 SELECT * FROM movies;
 -- SELECT * FROM castings;
